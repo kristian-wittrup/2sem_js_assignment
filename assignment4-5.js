@@ -1,3 +1,32 @@
+/*
+Maybe part of Assignment 4: 2023
+
+
+/*
+function sMulti() {
+  for (i = 0; i <= 9; i++) {
+    console.log(i)    
+  }
+}
+
+sMulti();
+*/
+/*
+// multi multi
+function multi() {
+  for (i = 0; i < 10; i++) {
+    for (j = 0; j < 10; j++) {
+      let result = i * j;
+      console.log(i + " * " + j + " = " + result)
+    } 
+    
+  }
+}
+
+multi();
+*/
+*/
+
 /* var vName = "variable to store all kinds of data";
 
 let lName = "Stores data as variable - but use when we now it could change ";
